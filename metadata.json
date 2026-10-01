@@ -1,0 +1,6 @@
+{
+  "name": "MEDTRUST - Modern Hospital & Healthcare",
+  "description": "Experience trusted healthcare with expert doctors, advanced medical technology, and personalized treatment plans at MEDTRUST. Care that moves you forward.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
